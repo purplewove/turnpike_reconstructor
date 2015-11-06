@@ -1,3 +1,7 @@
+'''
+7-6, p. 271. This solution over-generates identical solutions, but solves the problem. 
+'''
+
 from collections import defaultdict, namedtuple
 from math import sqrt, ceil
 from enum import Enum
